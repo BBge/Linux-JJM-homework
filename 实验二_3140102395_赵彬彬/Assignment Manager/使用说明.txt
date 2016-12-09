@@ -1,0 +1,3 @@
+本程序包含三个shell文件，分别为main.sh admin.sh teacher.sh
+student.sh
+运行时在路径确保正确的情况下 输入 bash main.sh 即可
